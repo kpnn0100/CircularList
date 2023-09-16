@@ -1,6 +1,6 @@
 # CircularList
 
-CircularList is a C++ template class that implements a circular list data structure. It allows you to store and manipulate a list of elements with a dynamic capacity. The circular list provides constant-time insertion and deletion operations at both ends of the list, making it efficient for use cases where elements are frequently added or removed.
+CircularList is a C++ template class that implements a ring buffer data structure. It allows you to store and manipulate a list of elements with a dynamic capacity. The circular list provides constant-time insertion and deletion operations at both ends of the list, making it efficient for use cases where elements are frequently added or removed.
 
 ## Usage
 
